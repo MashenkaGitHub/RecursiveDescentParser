@@ -1,0 +1,20 @@
+Window "Testing_Groups" ( 400 , 200 ) Layout Flow : 
+Panel Layout Grid ( 5 , 2 ) 
+Group
+Radio "one" ; 
+Radio "two" ; 
+Radio "three" ; 
+Radio "four" ;
+End ;
+Radio "one" ; 
+Radio "two" ; 
+Radio "three" ; 
+Radio "four" ;
+Button "one" ; 
+Button "two" ; 
+Button "three" ; 
+Button "four" ;
+Label "Groups" ;
+Textfield 15 ;
+End ; 
+End .
